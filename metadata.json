@@ -1,0 +1,5 @@
+{
+  "name": "YK Chat Bot",
+  "description": "A sleek and responsive chatbot application powered by the Google Gemini API, featuring real-time streaming responses for a dynamic user experience.",
+  "requestFramePermissions": []
+}
